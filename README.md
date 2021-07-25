@@ -23,4 +23,4 @@ You can get started here - [Setting up a custom domain](https://help.github.com/
 
 ## License
 
-MIT © Kyaw Kyaw Naing
+MIT © Ra Wai Htun
